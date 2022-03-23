@@ -13,6 +13,12 @@
   "name": "Chekote's ModPack 1.18.2",
   "version": "0.1",
   "author": "",
-  "files": [],
+  "files": [
+    {
+      "projectID": 238222,
+      "fileID": 3709850,
+      "required": true
+    }
+  ],
   "overrides": "overrides"
 }
