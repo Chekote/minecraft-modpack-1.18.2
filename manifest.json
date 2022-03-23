@@ -1,0 +1,18 @@
+{
+  "minecraft": {
+    "version": "1.18.2",
+    "modLoaders": [
+      {
+        "id": "forge-40.0.24",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Chekote's ModPack 1.18.2",
+  "version": "0.1",
+  "author": "",
+  "files": [],
+  "overrides": "overrides"
+}
