@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+./bin/clean_manifest.php manifest.json
+git add manifest.json
+
