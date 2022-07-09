@@ -3,3 +3,6 @@
 ./bin/clean_manifest.php manifest.json
 git add manifest.json
 
+sort -o modlist.html modlist.html
+git add modlist.html
+
