@@ -3,7 +3,7 @@
         "version": "1.18.2",
         "modLoaders": [
             {
-                "id": "forge-40.0.24",
+                "id": "forge-40.1.60",
                 "primary": true
             }
         ]
@@ -35,11 +35,6 @@
             "required": true
         },
         {
-            "projectID": 455982,
-            "fileID": 3834228,
-            "required": true
-        },
-        {
             "projectID": 531761,
             "fileID": 3830790,
             "required": true
@@ -47,11 +42,6 @@
         {
             "projectID": 563928,
             "fileID": 3816497,
-            "required": true
-        },
-        {
-            "projectID": 615134,
-            "fileID": 3773642,
             "required": true
         }
     ],
