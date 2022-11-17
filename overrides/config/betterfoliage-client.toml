@@ -18,7 +18,7 @@
 	#Determines the max distance leaves block fluff can deviate from the actual block. 0.0 means no distance variation (all fluff is in the middle of the block)
 	#Range: 0.0 ~ 7.0
 	leavesVariationDistance = 2.75
-	#Force Forge Lighting Pipeline? (should be true when not using Optifine)
+	#Force the Forge Lighting Pipeline? This is ignored if Optifine or Oculus are installed.
 	forceForgeLighting = true
 	#Inverse of the rarity of the extra grass. Increase the value to make it less common.
 	#Range: > 1
