@@ -17,7 +17,7 @@
 [world]
 	#World Generation produces Dynamic Trees instead of Vanilla trees.
 	worldGen = true
-	#Blacklist of dimension registry names for disabling Dynamic Tree worldgen (tree cancellers need to be configured individually for biomes in dynamictrees/tree_canceller.json)
+	#Blacklist of dimension registry names for disabling Dynamic Tree worldgen
 	dimensionsBlacklist = []
 
 #Mod Integration Settings
